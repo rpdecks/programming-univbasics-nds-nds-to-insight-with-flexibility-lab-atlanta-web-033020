@@ -89,6 +89,7 @@ def gross_per_studio(collection)
     movie_index += 1
     #binding.pry
   end
+  studio_gross
 end
 
 def movies_with_directors_set(source)
